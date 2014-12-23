@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Lesson 1 - The Xcode IDE!"
+---
+layout: post
 title:  "Lesson 2 - Fun with simulator"
 ---
 
